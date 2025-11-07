@@ -1,0 +1,12 @@
+openai>=1.0.0
+anthropic
+google-generativeai
+pandas
+matplotlib
+tqdm
+python-dotenv
+sentence-transformers
+ragas
+trulens-eval
+langchain
+qdrant-client
